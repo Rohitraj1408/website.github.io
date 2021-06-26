@@ -1,0 +1,4 @@
+applications:
+-name : tourism
+random-route : true
+memory : 128M
